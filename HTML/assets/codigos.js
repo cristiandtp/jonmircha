@@ -1,0 +1,1 @@
+console.log("Aprendiendo a importar JS desde assets")
